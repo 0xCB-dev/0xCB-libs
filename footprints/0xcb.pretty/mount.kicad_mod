@@ -1,0 +1,13 @@
+(footprint "mount" (version 20210824) (generator pcbnew) (layer "F.Cu")
+  (tedit 5E77ED0E)
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "MH2" (at 0 2) (layer "Dwgs.User") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 28f6c480-dee4-45a3-a6bf-8d1cd20656f0)
+  )
+  (fp_text value "Mount-M2" (at 0 -2) (layer "Dwgs.User") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f210bc4c-9e1e-4993-81f6-3cef1e3bafb1)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 3.500001 3.500001) (drill 2.2) (layers *.Cu *.Mask) (tstamp 204a1fc3-3aeb-4caa-860b-231ccdc9b7e0))
+)
