@@ -30,9 +30,9 @@
           "version":"1.0",
           "status":"stable",
           "kicad_version":"5.99",
-          "download_url":"https://github.com/0xCB-dev/0xcb-libs/archive/refs/tags/v1.0.zip",
-          "download_size": 1234,
-          "install_size": 1234
+          "download_url":"https://github.com/0xCB-dev/0xcb-libs/releases/download/v1.0/0xcb-libs.zip",
+          "download_size": 2093448,
+          "install_size": 10760192
        }
     ]
  }
