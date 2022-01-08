@@ -31,7 +31,7 @@
   (pad "" np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers *.Cu *.Mask) (tstamp fc1991d6-7df9-4595-8da2-919d460edc19))
   (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp c6da0091-17a0-401a-a386-e25cc224d8a1))
   (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 94bdcdd5-ded1-4e7d-910e-1d21638f81df))
-  (model "${CB_LIBS}/packages3d/SW_Cherry_MX_PCB.step"
+  (model "${KICAD6_3RD_PARTY}/3dmodels/dev_0xcb_libs/0xcb.3dshapes/SW_Cherry_MX_PCB.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

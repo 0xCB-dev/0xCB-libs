@@ -21,9 +21,4 @@
   (pad "" np_thru_hole circle (at -57.15 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp d67bfaf7-1080-4bf2-a0ce-27f055d1c42d))
   (pad "" np_thru_hole circle (at 57.15 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp fbd94f99-397e-4921-a870-c60192d02852))
   (pad "" np_thru_hole circle (at 57.15 -6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask) (tstamp fd650da4-efdd-4bf0-89eb-55b3426b7fe8))
-  (model "${KIPRJMOD}/Switch_Keyboard/packages3d/Mounting_Keyboard_Stabilizer.3dshapes/Stabilizer_Cherry_MX_7u.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

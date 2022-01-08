@@ -52,7 +52,7 @@
   (pad "S2" thru_hole oval (at -2.4 2.15) (size 2.2 1.1) (drill oval 0.85 0.6) (layers *.Cu *.Mask) (tstamp 6cf4567c-341d-43ff-b56d-25aa5882fee6))
   (pad "S3" thru_hole oval (at 2.4 -2.15) (size 2.2 1.1) (drill oval 0.85 0.6) (layers *.Cu *.Mask) (tstamp 9f202f88-1d59-48f2-9139-f5eec3ee6a26))
   (pad "S4" thru_hole oval (at 2.4 2.15) (size 2.2 1.1) (drill oval 0.85 0.6) (layers *.Cu *.Mask) (tstamp d0a25f6a-047e-49e7-9e30-7e2f3f89c488))
-  (model "${CB_LIBS}/packages3d/USB4120-03-C_REVA.step"
+  (model "${KICAD6_3RD_PARTY}/3dmodels/dev_0xcb_libs/0xcb.3dshapes/USB4120-03-C_REVA.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1.1))
     (rotate (xyz -90 0 0))

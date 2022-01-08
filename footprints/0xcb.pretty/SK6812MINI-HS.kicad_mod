@@ -1,5 +1,6 @@
-(footprint "SK6812MINI-HS" (version 20211014) (generator pcbnew) (layer "F.Cu")
-  (tedit 61899504)
+(footprint "SK6812MINI-HS" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 61B7AC97)
   (descr "Add-on for regular MX-footprints with SK6812 MINI-E")
   (tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
   (attr through_hole)
@@ -33,8 +34,8 @@
   (pad "2" smd roundrect (at 1.75 -1.05 90) (size 0.9 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp d780d867-d180-40a3-8de6-b70f01c565b9))
   (pad "3" smd roundrect (at -1.7 -1.05 90) (size 0.9 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 1a231e95-96a4-4c1b-a581-86fc18954952))
   (pad "4" smd roundrect (at -1.7 1.05 90) (size 0.9 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp b045a6f9-abe6-4616-bf27-076478835908))
-  (model "${CB_LIBS}/packages3d/LED_SK6812MINI-E.step"
-    (offset (xyz 0 0 0))
+  (model "${KICAD6_3RD_PARTY}/3dmodels/dev_0xcb_libs/0xcb.3dshapes/LED_SK6812MINI-E.step"
+    (offset (xyz 0 5 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

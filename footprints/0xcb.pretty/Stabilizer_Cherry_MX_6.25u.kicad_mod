@@ -17,9 +17,4 @@
   (pad ~ np_thru_hole circle (at 50 -6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
   (pad ~ np_thru_hole circle (at -50 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad ~ np_thru_hole circle (at 50 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-  (model "${KIPRJMOD}/Switch_Keyboard/packages3d/Mounting_Keyboard_Stabilizer.3dshapes/Stabilizer_Cherry_MX_6_25u.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

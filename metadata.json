@@ -13,7 +13,8 @@
     },
     "license":"CC-BY-SA-4.0",
     "resources":{
-       "Github":"https://github.com/0xcb-libs/0xcb-libs"
+       "Github":"https://github.com/0xcb-libs/0xcb-libs",
+       "Website": "https://0xcb.dev"
     },
     "tags":[
        "footprint",
@@ -29,7 +30,7 @@
        {
           "version":"1.0",
           "status":"stable",
-          "kicad_version":"5.99",
+          "kicad_version":"6.0",
           "download_url":"https://github.com/0xCB-dev/0xcb-libs/releases/download/v1.0/0xcb-libs.zip",
           "download_size": 2093448,
           "install_size": 10760192

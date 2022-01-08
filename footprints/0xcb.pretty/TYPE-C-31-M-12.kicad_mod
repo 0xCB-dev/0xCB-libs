@@ -1,5 +1,6 @@
-(footprint "TYPE-C-31-M-12" (version 20210824) (generator pcbnew) (layer "F.Cu")
-  (tedit 615B4824)
+(footprint "TYPE-C-31-M-12" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 61B7AC4B)
   (fp_text reference "J1" (at 0 5) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ba7d6919-8d76-4b39-82ac-d551738c1e34)
@@ -55,7 +56,7 @@
   (pad "S" thru_hole oval (at 4.3 5.7) (size 1.3 1.9) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp 636946e2-16ae-4d8a-9f72-c832cf7f9156))
   (pad "S" thru_hole oval (at 4.3 1.5) (size 1.1 2.2) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 6e2b8bca-8534-4e23-bdb9-c576cdce40ff))
   (pad "S1" thru_hole oval (at -4.3 5.7) (size 1.3 1.9) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp d435e94b-e895-4c56-81de-16540ca3c65a))
-  (model ":Acheron 3D models:TYPE-C-31-M-12.step"
+  (model "${KICAD6_3RD_PARTY}/3dmodels/dev_0xcb_libs/0xcb.3dshapes/TYPE-C-31-M-12.step"
     (offset (xyz -4.46 -8.25 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
