@@ -2,7 +2,7 @@
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
     "name": "KiCAD 0xCB Library",
     "description": "A Keyboard Library",
-    "description_full": "This plugin is intended for internal use by 0xCB for designing Keebs, but feel free to use it too, if you find this useful :)",
+    "description_full": "This library is intended for internal use by 0xCB for designing Keebs, but feel free to use it too, if you find this useful :)",
     "identifier": "com.github.0xcb-dev.0xcb-libs",
     "type": "library",
     "author": {

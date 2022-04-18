@@ -10,11 +10,10 @@ rm -rf PCM/archive
 
 
 echo "Create folder structure for ZIP"
-mkdir -p PCM/archive/resources
+mkdir -p PCM/archive
 
 echo "Copy files to destination"
 cp -r LIB/* PCM/archive/
-cp PCM/icon.png PCM/archive/resources
 cp PCM/metadata.template.json PCM/archive/metadata.json
 
 echo "Write version info to file"
