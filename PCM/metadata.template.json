@@ -1,0 +1,34 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "KiCAD 0xCB Library",
+    "description": "A Keyboard Library",
+    "description_full": "This plugin is intended for internal use by 0xCB for designing Keebs, but feel free to use it too, if you find this useful :)",
+    "identifier": "com.github.0xcb-dev.0xcb-libs",
+    "type": "library",
+    "author": {
+        "name": "Conor Burns",
+        "contact": {
+            "github": "@Conor-Burns"
+        }
+    },
+    "maintainer": {
+        "name": "Conor Burns",
+        "contact": {
+            "github": "@Conor-Burns"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "Github": "https://github.com/0xcb-libs/0xcb-libs",
+        "Website": "https://0xcb.dev"
+    },
+    "versions": [{
+        "version": "VERSION_HERE",
+        "status": "stable",
+        "kicad_version": "6.0",
+        "download_sha256": "SHA256_HERE",
+        "download_size": DOWNLOAD_SIZE_HERE,
+        "download_url": "DOWNLOAD_URL_HERE",
+        "install_size": INSTALL_SIZE_HERE
+    }]
+}

@@ -1,11 +1,12 @@
-(footprint "0xCB-S" (version 20210824) (generator pcbnew) (layer "F.Cu")
-  (tedit 613A4F05)
+(footprint "0xCB-S" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 61D9A5B1)
   (attr board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
     (tstamp 04141557-3fbb-46ae-bd6b-023da407eec5)
   )
-  (fp_text value "0xCB" (at 0.75 0) (layer "F.SilkS") hide
+  (fp_text value "0xCBs" (at 0.75 0) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
     (tstamp ce946406-43c6-41c6-b260-3b895ec6e3b3)
   )
