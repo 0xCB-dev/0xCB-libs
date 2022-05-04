@@ -25,7 +25,7 @@
   (pad "2" smd rect (at -0.5 -4.775) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 66edafa8-b259-431f-bd68-843f47203ac5))
   (pad "3" smd rect (at 0.5 -4.775) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f80106b8-6b0a-4814-a919-195e29399e2b))
   (pad "4" smd rect (at 1.5 -4.775) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cf093f4f-e713-460d-82af-deeb478db1cf))
-  (model "${KICAD6_3RD_PARTY}/3dmodels/dev_0xcb_libs/0xcb.3dshapes/JST-SR-4_qwicc.step"
+  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_0xcb-dev_0xcb-libs/0xcb.3dshapes/JST-SR-4_qwicc.step"
     (offset (xyz 0 4 -0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -1,4 +1,4 @@
-(footprint "HRO-TYPE-C-31-M-13" (version 20211014) (generator pcbnew)
+(footprint "USB_C_Receptacle_HRO-TYPE-C-31-M-13" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61A52CFB)
   (attr smd)

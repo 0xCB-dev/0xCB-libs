@@ -54,7 +54,7 @@
   (pad "2" smd roundrect (at -2.6 5.829999 270) (size 0.82 1.6) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1) (tstamp 7fe3ef76-4ab1-4b03-afcc-a5d65c5716db))
   (pad "3" smd roundrect (at 2.6 5.829999 270) (size 0.82 1.6) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1) (tstamp b045a6f9-abe6-4616-bf27-076478835908))
   (pad "4" smd roundrect (at 2.6 4.329999 270) (size 0.82 1.6) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1) (tstamp 1a231e95-96a4-4c1b-a581-86fc18954952))
-  (model "${KICAD6_3RD_PARTY}/3dmodels/dev_0xcb_libs/0xcb.3dshapes/LED_SK6812MINI-E.step"
+  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_0xcb-dev_0xcb-libs/0xcb.3dshapes/LED_SK6812MINI-E.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

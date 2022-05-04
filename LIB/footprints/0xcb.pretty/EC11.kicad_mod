@@ -32,7 +32,7 @@
   (pad "MP" thru_hole rect (at 7.5 8.1) (size 3.2 2) (drill oval 2.8 1.5) (layers *.Cu *.Mask) (tstamp fb1764fe-e4a1-44f2-bdc9-6be5f5905910))
   (pad "S1" thru_hole circle (at 14.5 5) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 16e46076-8f9d-4ebd-bf49-0a9dc8d6dd9d))
   (pad "S2" thru_hole circle (at 14.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 95f4255b-bece-4330-814f-29cb9f03fdd6))
-  (model "${KICAD6_3RD_PARTY}/3dmodels/dev_0xcb_libs/0xcb.3dshapes/ec11.STEP"
+  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_0xcb-dev_0xcb-libs/0xcb.3dshapes/ec11.STEP"
     (offset (xyz 7.5 -2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

@@ -50,7 +50,7 @@
   (pad "S2" thru_hole oval (at 5.62 -6.1) (size 1 1.8) (drill oval 0.6 1.4) (layers *.Cu *.Mask "F.Paste") (tstamp f89cb822-6505-4716-b9a3-87327e22e13f))
   (pad "S3" thru_hole oval (at 5.62 -2.1) (size 1 2.2) (drill oval 0.6 1.8) (layers *.Cu *.Mask "F.Paste") (tstamp 76fac984-fbb1-4f4e-b9df-4c557ac483db))
   (pad "S4" thru_hole oval (at -5.62 -2.1) (size 1 2.2) (drill oval 0.6 1.8) (layers *.Cu *.Mask "F.Paste") (tstamp 99dd5ef4-50cd-420d-8994-06f9d52289fd))
-  (model "${KICAD6_3RD_PARTY}/3dmodels/dev_0xcb_libs/0xcb.3dshapes/2169900001.stp"
+  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_0xcb-dev_0xcb-libs/0xcb.3dshapes/2169900001.stp"
     (offset (xyz 0 3.6 -0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -180))
