@@ -19,4 +19,9 @@
   (pad "1" smd roundrect (at 1.35 -0.575) (size 0.7 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 864830c7-6e74-464c-9714-07feda4a225a))
   (pad "2" smd roundrect (at -1.35 0.575) (size 0.7 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 202c767e-2e2a-4c2c-8882-e5163666a93f))
   (pad "2" smd roundrect (at 1.35 0.575) (size 0.7 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ea931a4d-76d2-4bcf-b528-246a5eba39cd))
+  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_0xcb-dev_0xcb-libs/0xcb.3dshapes/PANASONIC_EVPAF7B70.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 0.9 0.6 0.9))
+    (rotate (xyz 0 0 0))
+  )
 )
