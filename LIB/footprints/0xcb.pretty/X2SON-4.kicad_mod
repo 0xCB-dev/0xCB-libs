@@ -44,7 +44,6 @@
       (xy 0.43 -0.15)
       (xy 0.185 -0.4)
     ) (layer "F.Paste") (width 0) (fill solid) (tstamp e9ff267f-5a77-4659-98a3-00c68b9c5041))
-  (fp_circle (center -0.85 -0.3) (end -0.708581 -0.3) (layer "F.SilkS") (width 0) (fill solid) (tstamp b20ea94b-6880-423d-ae34-dfc9f0923405))
   (fp_poly (pts
       (xy 0.135 -0.48)
       (xy 0.66 -0.48)
@@ -87,6 +86,7 @@
   (fp_line (start -0.5 0.5) (end -0.5 -0.5) (layer "F.Fab") (width 0.127) (tstamp 1df589aa-1bb6-4825-ac21-fb060f95b1c8))
   (fp_line (start -0.5 -0.5) (end 0.5 -0.5) (layer "F.Fab") (width 0.127) (tstamp d45cdff7-d27f-49bf-a174-a1ee2b894001))
   (fp_line (start 0.5 0.5) (end -0.5 0.5) (layer "F.Fab") (width 0.127) (tstamp fb3fc225-21c1-4055-a4df-43aae68f506e))
+  (fp_circle (center -0.85 -0.3) (end -0.708581 -0.3) (layer "F.Fab") (width 0) (fill solid) (tstamp b20ea94b-6880-423d-ae34-dfc9f0923405))
   (pad "1" smd custom (at -0.435 -0.335) (size 0.2 0.13) (layers "F.Cu")
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
